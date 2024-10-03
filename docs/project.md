@@ -24,7 +24,7 @@ Drugi typ użytkownika to pracownik naszej firmy, który po zalogowaniu może sp
 - Należy spełnić wymagania biznesowe
 - Należy spełnić wymagania techniczne
 
-## Wymagani biznesowe (nazwy są przykładowe)
+## Wymagania biznesowe (nazwy są przykładowe)
 
 ### Tryb użytkownika (zalogowanego lub nie)
 - Strona główna (landing page): Na stronie startowej znajduje się wyszukiwarka samochodów, umożliwiająca wyszukiwanie po marce i modelu.
