@@ -168,7 +168,7 @@ Architektura systemu jest kluczowa, dlatego dokładny opis API nie jest obecnie 
 ## Wymagania techniczne
 ### Front-end
 - Responsywne
-- Użycie technologii AJAX
+- Użycie technologii AJAX / Blazor 
 - Spójne
 - Hostowane na  Azure lub innej chmurze
 ### Back-end
