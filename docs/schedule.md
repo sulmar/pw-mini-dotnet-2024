@@ -7,11 +7,11 @@
 
 - **24.10/25.10 - pierwszy checkpoint**
 
-- 31.10/01.11
+- 31.10/01.11 - brak zajęć w piątek (Wszystkich Świętych)
 
 - 07.11/08.11
 
-- 14.11/15.11 - brak zajęć (w czwartek mamy poniedziałek na PW, w piątek Dzień PW)
+- 14.11/15.11 - brak zajęć w czwartek (poniedziałek na PW)
 
 - **21.11/22.11 - drugi checkpoint**
 
