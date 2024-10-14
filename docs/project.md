@@ -178,8 +178,8 @@ Architektura systemu jest kluczowa, dlatego dokładny opis API nie jest obecnie 
 - Użycie AzureBlob (lub podobnego) do przechowania plików
 - Użycie SendGrid (lub podobnego) do wysyłania maili
 - Użycie OpenId dla autentykacji (lub innego opartego na OATH)
-- Stworzenie własnego rodzaju autoryzacji lub użcyie OpenId
-- Stworzenie własnego rodzaju autentykacji lub użcyie OpenId do zabezpieczenia swojego API 
+- Stworzenie własnego rodzaju autoryzacji lub użycie OpenId
+- Stworzenie własnego rodzaju autentykacji lub użycie OpenId do zabezpieczenia swojego API 
   
 ## Technology stack
 - SCRUM, git, git-flow, Azure DevOps
