@@ -77,7 +77,7 @@ To API rozpoczyna proces zwrotu samochodu, umożliwiając użytkownikowi oznacze
 To API pozwala użytkownikowi sprawdzić status procesu wynajmu.
 - Żądanie: ID wynajmu, ID użytkownika
 - Odpowiedź: Status procesu wynajmu.
-7.**Potwierdzenie zwrotu samochodu**:
+7. **Potwierdzenie zwrotu samochodu**:
 To API potwierdza zakończenie procesu zwrotu samochodu, zwykle obsługiwane przez pracownika, który weryfikuje zwrot.
 - Żądanie: ID wynajmu, ID pracownika, notatki dotyczące zwrotu oraz wymagane załączniki (obraz lub PDF).
 - Odpowiedź: Potwierdzenie pomyślnego zwrotu samochodu oraz wygenerowanie rachunku, który zostanie wysłany e-mailem.
