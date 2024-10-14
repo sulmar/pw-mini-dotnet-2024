@@ -129,11 +129,11 @@ To API potwierdza zakończenie procesu zwrotu samochodu, zwykle obsługiwane prz
 
 5. Użytkownik po naciśnięciu przycisku "Rent Me" składa rezerwację
 
-7. Po akceptacji przez pracownika użytkownik.  System generuje powiadomienie mailowe z linkiem czy użytkownik akceptuje (ważnym przez x minut)
+6. System generuje powiadomienie mailowe z linkiem czy użytkownik akceptuje (ważnym przez x minut)
 
-8. Użytkownik po kliknięciu linka potwierdza wypożyczenie auta
+7. Użytkownik po kliknięciu linka potwierdza wypożyczenie auta
 
-9. System wysyłka maila do uzytkownika, że umowa została zawarta
+8. System wysyłka maila do uzytkownika, że umowa została zawarta
 
 ### Scenariusz nr 2 (zwrot samochodu)
 
